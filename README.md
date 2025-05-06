@@ -25,9 +25,30 @@ We use your data solely to:
 
 We do not sell or share your data with third parties.
 
+## 3. Fortnite "Leak" Data
+
+Bread displays unreleased Fortnite items ("leaks") that are accessible via Epic Games’ public APIs. These items may include:
+
+- Cosmetics not yet available in-game
+- Jam Track data
+- Shop or pass assets marked for future use
+
+This data is collected passively through public endpoints and is used solely to display information to users.
+
+## 4. Notification Preferences
+
+You can enable or disable updates for specific types of notifications, including:
+
+- 🎵 Jam Track Updates
+- 🛍️ Item Shop Updates
+- 🎟️ Pass Updates
+- ⚙️ Epic Services Updates
+
+Preferences are saved per server and are opt-in.
+
 ## 3. Data Security
 
-Your data is stored securely using encryption and access controls. While we take reasonable measures to protect it, we cannot guarantee complete security.
+Your data is stored securely using encryption. While we take reasonable measures to protect it, we cannot guarantee complete security.
 
 ## 4. Data Retention and Deletion
 
