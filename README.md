@@ -46,19 +46,19 @@ You can enable or disable updates for specific types of notifications, including
 
 Preferences are saved per server and are opt-in.
 
-## 3. Data Security
+## 5. Data Security
 
 Your data is stored securely using encryption. While we take reasonable measures to protect it, we cannot guarantee complete security.
 
-## 4. Data Retention and Deletion
+## 6. Data Retention and Deletion
 
 - Your data is kept until you use the `/logout` command or request manual removal.
 - You can request deletion of all associated data by contacting the bot owner or joining the support server.
 
-## 5. Children’s Privacy
+## 7. Children’s Privacy
 
 Bread is not intended for users under 13 years of age. If you believe a child has used the bot, please contact us to delete their data.
 
-## 6. Contact
+## 8. Contact
 
 For any concerns, please join the support server or contact the developer directly via Discord: `@eggrial`
